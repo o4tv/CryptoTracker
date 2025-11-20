@@ -39,6 +39,27 @@ Aqui está o resultado final que vamos construir:
 
 ---
 
+## 📅 Roteiro de Desenvolvimento (Sprints)
+
+Para facilitar seu aprendizado e evitar que você se sinta sobrecarregado, dividimos este projeto em 3 níveis de dificuldade. 
+Clique no link para ir para cada semana, após ler todo o documento abaixo.
+
+**Siga a ordem abaixo:**
+
+### 🟢 [Nível 1: O Básico (MVP)](./SEMANA_01_MVP.md)
+> **Meta:** Fazer a conexão com a API e exibir a lista simples na tela.
+> *Foco: `useEffect`, `useState` e `.map()`.*
+
+### 🟡 [Nível 2: Interatividade & Visual](./SEMANA_02_LOGICA.md)
+> **Meta:** Adicionar barra de busca, formatação de moeda (R$) e as cores verde/vermelho na variação.
+> *Foco: Lógica de `filter` e estilização condicional.*
+
+### 🔴 [Nível 3: Navegação Avançada](./SEMANA_03_ROTEAMENTO.md)
+> **Meta:** Criar a segunda página (Detalhes) e permitir clicar no card para navegar até ela.
+> *Foco: `React Router DOM` e rotas dinâmicas.*
+
+---
+
 ## 🚀 Como Iniciar o Projeto
 
 ```bash
